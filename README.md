@@ -1,6 +1,6 @@
 # README
 
-This Github Organization is dedicated to hosting the source code produced as part of the Ted AI Hackhaton 2023 in collaboration with the [LF AI & Data Foundation](https://l.lfaidata.foundation)
+This Github Organization is dedicated to hosting the source code produced as part of the [TED AI](https://www.ai-event.ted.com/) Open Source Hackathon 2023 in collaboration with the [LF AI & Data Foundation](https://l.lfaidata.foundation)
 
 ### Recommendations for participants:
 
